@@ -1,1 +1,1 @@
-#Symulator LOTTO
+# Symulator LOTTO
