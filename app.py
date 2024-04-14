@@ -50,7 +50,3 @@ def lotto_result():
 
 
 lotto_result()
-
-
-
-
